@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ThreeSixty</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send_button">Send button</string>
+    <string name="instructions">Enter your event’s name:</string>
+    <string name="network_status">Network status</string>
+</resources>

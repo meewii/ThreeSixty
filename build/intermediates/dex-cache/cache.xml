@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Marie/Projects/ThreeSixty/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/Marie/Projects/ThreeSixty/app/build/intermediates/pre-dexed/debug/classes-31b602a3b87aba9f057457a3083c550f89ab76cd.jar" />
+    </item>
+    <item
+        jar="/Users/Marie/Projects/ThreeSixty/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/Marie/Projects/ThreeSixty/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-e5f081eeb83cfa10953883f2b3438c7c1bea62e0.jar" />
+    </item>
+    <item
+        jar="/Users/Marie/Projects/ThreeSixty/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/Marie/Projects/ThreeSixty/app/build/intermediates/pre-dexed/debug/classes-392dcb9ca59c95823c13daffe24d13ada719ed66.jar" />
+    </item>
+    <item
+        jar="/Applications/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/Marie/Projects/ThreeSixty/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-ead2abccab2c9e6a0edbc7e5b067d0932e84fa02.jar" />
+    </item>
+
+</items>
